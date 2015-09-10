@@ -1,0 +1,11 @@
+function st_sorted_MMCanalysis(varargin)
+clear all; close all; clc;
+% function to analyze MMC sorted data
+
+% ST. v1:            29.06.15
+% Last modified:     29.06.15
+% Backup:            st_analyze_MMCsorted_copy
+% Last backup saved: 
+
+%% analyses
+- 
